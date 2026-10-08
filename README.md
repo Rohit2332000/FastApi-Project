@@ -378,9 +378,9 @@ Render
 Production API
 ```
 
-🌐 **Live API:** [Add your Render URL here]
+🌐 **Live API: http://54.162.165.77:8000
 
-📚 **API Documentation:** [Add your `/docs` URL here]
+📚 **API Documentation: http://54.162.165.77:8000/docs
 
 ---
 
